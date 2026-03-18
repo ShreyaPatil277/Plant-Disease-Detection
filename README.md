@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 ![Accuracy](https://img.shields.io/badge/Accuracy-96--99%25-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 A deep learning project that detects plant diseases from leaf images
 using CNN and MobileNetV2 Transfer Learning.

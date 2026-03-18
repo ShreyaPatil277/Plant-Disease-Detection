@@ -1,0 +1,26 @@
+# Model files (too large for GitHub)
+*.h5
+*.tflite
+*.pb
+
+# Dataset (never push datasets to GitHub)
+dataset/
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Colab credentials
+kaggle.json

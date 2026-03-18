@@ -48,10 +48,6 @@ plant-disease-detection/
 Apple, Blueberry, Cherry, Corn, Grape, Orange, Peach,
 Pepper, Potato, Raspberry, Soybean, Squash, Strawberry, Tomato
 
-## 👥 Team
-- Member 1 — Model Architecture
-- Member 2 — Data Preprocessing
-- Member 3 — Evaluation & Visualization
 
 ## 📚 References
 - Hughes & Salathé (2015) — PlantVillage Dataset
